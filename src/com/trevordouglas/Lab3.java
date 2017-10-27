@@ -16,6 +16,7 @@ public class Lab3 {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("This world is awesome.!!");
+		System.out.println("Code is changine");
 
 	}
 
